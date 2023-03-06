@@ -1,0 +1,8 @@
+prefix=/home/kkraman/rio_ws/devel/.private/rtioms_recovery_behaviors
+
+Name: rtioms_recovery_behaviors
+Description: Description of rtioms_recovery_behaviors
+Version: 1.16.7
+Cflags: -I/home/kkraman/rio_ws/src/rtioms_recovery_behaviors/include
+Libs: -L${prefix}/lib -lrtioms_recovery_behaviors
+Requires: costmap_2d geometry_msgs nav_core pluginlib roscpp tf2 tf2_ros

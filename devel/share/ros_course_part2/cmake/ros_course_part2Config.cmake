@@ -1,0 +1,1 @@
+/home/kkraman/rio_ws/devel/.private/ros_course_part2/share/ros_course_part2/cmake/ros_course_part2Config.cmake

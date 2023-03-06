@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kkraman/rio_ws/devel/.private/amcl/setup.sh

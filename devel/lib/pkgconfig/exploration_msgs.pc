@@ -1,0 +1,1 @@
+/home/kkraman/rio_ws/devel/.private/exploration_msgs/lib/pkgconfig/exploration_msgs.pc

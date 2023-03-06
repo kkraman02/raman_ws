@@ -1,0 +1,8 @@
+prefix=/home/kkraman/rio_ws/devel/.private/exploration_server
+
+Name: exploration_server
+Description: Description of exploration_server
+Version: 0.4.2
+Cflags: -I/home/kkraman/rio_ws/src/navigation-melodic-devel/frontier_exploration/exploration_server/include
+Libs: -L${prefix}/lib 
+Requires: actionlib costmap_2d exploration_msgs roscpp tf

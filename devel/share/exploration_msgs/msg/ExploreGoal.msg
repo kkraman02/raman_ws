@@ -1,0 +1,1 @@
+/home/kkraman/rio_ws/devel/.private/exploration_msgs/share/exploration_msgs/msg/ExploreGoal.msg

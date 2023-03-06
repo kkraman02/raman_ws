@@ -1,0 +1,1 @@
+/home/kkraman/rio_ws/devel/.private/turtlebot3_gazebo/lib/pkgconfig/turtlebot3_gazebo.pc

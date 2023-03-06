@@ -1,0 +1,10 @@
+[01m[K/home/kkraman/rio_ws/src/navigation-melodic-devel/move_base/src/move_base.cpp:[m[K In member function ‘[01m[Kvoid move_base::MoveBase::loadDefaultRecoveryBehaviors()[m[K’:
+[01m[K/home/kkraman/rio_ws/src/navigation-melodic-devel/move_base/src/move_base.cpp:1275:60:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kboost::shared_ptr<nav_core::RecoveryBehavior> rotate[m[K’
+       boost::shared_ptr<nav_core::RecoveryBehavior> rotate([01;31m[Krecovery_loader_[m[K.createInstance("rotate_recovery/RotateRecovery"));
+                                                            [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/kkraman/rio_ws/src/navigation-melodic-devel/move_base/src/move_base.cpp:1226:53:[m[K [01;36m[Knote: [m[K‘[01m[Kboost::shared_ptr<nav_core::RecoveryBehavior> rotate[m[K’ previously declared here
+       boost::shared_ptr<nav_core::RecoveryBehavior> [01;36m[Krotate[m[K(recovery_loader_.createInstance("rotate_recovery/RotateRecovery"));
+                                                     [01;36m[K^~~~~~[m[K
+make[2]: *** [CMakeFiles/move_base.dir/src/move_base.cpp.o] Error 1
+make[1]: *** [CMakeFiles/move_base.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/home/kkraman/rio_ws/devel/.private/summit_odometry/share/summit_odometry/cmake/summit_odometryConfig.cmake

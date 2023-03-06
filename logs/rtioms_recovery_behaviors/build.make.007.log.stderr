@@ -1,0 +1,10 @@
+[01m[K/home/kkraman/rio_ws/src/rtioms_recovery_behaviors/src/rtioms_recovery_behaviors.cpp:[m[K In member function ‘[01m[Kvirtual void rtioms_recovery_behaviors::RtiomsRecoveryBehaviors::runBehavior()[m[K’:
+[01m[K/home/kkraman/rio_ws/src/rtioms_recovery_behaviors/src/rtioms_recovery_behaviors.cpp:255:47:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kgeometry_msgs::PoseWithCovarianceStamped goal_pose[m[K’
+      geometry_msgs::PoseWithCovarianceStamped [01;31m[Kgoal_pose[m[K;
+                                               [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/kkraman/rio_ws/src/rtioms_recovery_behaviors/src/rtioms_recovery_behaviors.cpp:210:46:[m[K [01;36m[Knote: [m[K‘[01m[Kgeometry_msgs::PoseWithCovarianceStamped goal_pose[m[K’ previously declared here
+     geometry_msgs::PoseWithCovarianceStamped [01;36m[Kgoal_pose[m[K;
+                                              [01;36m[K^~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/rtioms_recovery_behaviors.dir/src/rtioms_recovery_behaviors.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rtioms_recovery_behaviors.dir/all] Error 2
+make: *** [all] Error 2

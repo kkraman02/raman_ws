@@ -1,0 +1,8 @@
+prefix=/home/kkraman/rio_ws/install
+
+Name: autonomous_robots
+Description: Description of autonomous_robots
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

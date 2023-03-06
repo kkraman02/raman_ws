@@ -1,0 +1,1 @@
+/home/kkraman/rio_ws/devel/.private/frontier_exploration/share/roseus/ros/frontier_exploration/msg/ExploreTaskGoal.l

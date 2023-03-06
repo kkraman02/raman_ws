@@ -1,0 +1,6 @@
+navigation-melodic-devel/frontier_exploration/polygon_layer
+/home/kkraman/rio_ws/devel/.private/polygon_layer/cmake.lock /home/kkraman/rio_ws/devel/./cmake.lock
+/home/kkraman/rio_ws/devel/.private/polygon_layer/share/polygon_layer/cmake/polygon_layerConfig-version.cmake /home/kkraman/rio_ws/devel/share/polygon_layer/cmake/polygon_layerConfig-version.cmake
+/home/kkraman/rio_ws/devel/.private/polygon_layer/share/polygon_layer/cmake/polygon_layerConfig.cmake /home/kkraman/rio_ws/devel/share/polygon_layer/cmake/polygon_layerConfig.cmake
+/home/kkraman/rio_ws/devel/.private/polygon_layer/lib/libpolygon_layer.so /home/kkraman/rio_ws/devel/lib/libpolygon_layer.so
+/home/kkraman/rio_ws/devel/.private/polygon_layer/lib/pkgconfig/polygon_layer.pc /home/kkraman/rio_ws/devel/lib/pkgconfig/polygon_layer.pc

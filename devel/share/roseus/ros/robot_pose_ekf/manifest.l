@@ -1,0 +1,1 @@
+/home/kkraman/rio_ws/devel/.private/robot_pose_ekf/share/roseus/ros/robot_pose_ekf/manifest.l
